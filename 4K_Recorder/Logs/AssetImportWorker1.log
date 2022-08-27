@@ -11,13 +11,13 @@ D:\Unity\2021.2.16f1\Editor\Unity.exe
 -name
 AssetImportWorker1
 -projectPath
-D:/Unity/HD_GG
+D:/Unity/4K-Recorder/4K_Recorder
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-51294
-Successfully changed project path to: D:/Unity/HD_GG
-D:/Unity/HD_GG
+54654
+Successfully changed project path to: D:/Unity/4K-Recorder/4K_Recorder
+D:/Unity/4K-Recorder/4K_Recorder
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,11 +47,11 @@ D:/Unity/HD_GG
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 296.52 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 367.28 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.16f1 (559fc0ec6670)
 [Subsystems] Discovering subsystems at path D:/Unity/2021.2.16f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Unity/HD_GG/Assets
+[Subsystems] Discovering subsystems at path D:/Unity/4K-Recorder/4K_Recorder/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -63,97 +63,97 @@ Initialize mono
 Mono path[0] = 'D:/Unity/2021.2.16f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity/2021.2.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Unity/2021.2.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56524
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity/2021.2.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: D:/Unity/2021.2.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: D:/Unity/2021.2.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005718 seconds.
+Registered in 0.005641 seconds.
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 Native extension for iOS target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 317.31 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 543.06 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.550 seconds
+- Completed reload, in  1.713 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1551ms)
-		BeginReloadAssembly (146ms)
+	ReloadAssembly (1714ms)
+		BeginReloadAssembly (148ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (1191ms)
-			LoadAssemblies (145ms)
+		EndReloadAssembly (1367ms)
+			LoadAssemblies (148ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (240ms)
+			SetupTypeCache (211ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (57ms)
-			SetupLoadedEditorAssemblies (793ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (1012ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (121ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (318ms)
+				InitializePlatformSupportModulesInManaged (113ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (543ms)
 				BeforeProcessingInitializeOnLoad (3ms)
-				ProcessInitializeOnLoadAttributes (216ms)
-				ProcessInitializeOnLoadMethodAttributes (134ms)
+				ProcessInitializeOnLoadAttributes (232ms)
+				ProcessInitializeOnLoadMethodAttributes (115ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.025150 seconds.
+Registered in 0.023188 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\4K-Recorder\4K_Recorder\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\4K-Recorder\4K_Recorder\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 318.49 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 331.08 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.546 seconds
+- Completed reload, in  4.556 seconds
 Domain Reload Profiling:
-	ReloadAssembly (4547ms)
-		BeginReloadAssembly (288ms)
+	ReloadAssembly (4557ms)
+		BeginReloadAssembly (398ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
+			DisableScriptedObjects (16ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (131ms)
-		EndReloadAssembly (4030ms)
-			LoadAssemblies (186ms)
+			CreateAndSetChildDomain (164ms)
+		EndReloadAssembly (3914ms)
+			LoadAssemblies (224ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (822ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (216ms)
-			SetupLoadedEditorAssemblies (2720ms)
+			SetupTypeCache (809ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (391ms)
+			SetupLoadedEditorAssemblies (2353ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (38ms)
+				InitializePlatformSupportModulesInManaged (43ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (319ms)
-				BeforeProcessingInitializeOnLoad (267ms)
-				ProcessInitializeOnLoadAttributes (1774ms)
-				ProcessInitializeOnLoadMethodAttributes (315ms)
-				AfterProcessingInitializeOnLoad (5ms)
+				RefreshPlugins (331ms)
+				BeforeProcessingInitializeOnLoad (260ms)
+				ProcessInitializeOnLoadAttributes (1449ms)
+				ProcessInitializeOnLoadMethodAttributes (262ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
-Refreshing native plugins compatible for Editor in 2.72 ms, found 5 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.76 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 6930 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 71 unused Assets / (3.8 MB). Loaded Objects now: 7384.
-Memory consumption went from 309.4 MB to 305.5 MB.
-Total: 16.801900 ms (FindLiveObjects: 1.301700 ms CreateObjectMapping: 1.632900 ms MarkObjects: 11.641000 ms  DeleteObjects: 2.223600 ms)
+Unloading 71 unused Assets / (3.8 MB). Loaded Objects now: 7386.
+Memory consumption went from 309.8 MB to 305.9 MB.
+Total: 7.941700 ms (FindLiveObjects: 0.775700 ms CreateObjectMapping: 0.760700 ms MarkObjects: 4.928900 ms  DeleteObjects: 1.474900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -168,692 +168,49 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 3578.891755 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Backout Midnight.asset
-  artifactKey: Guid(775923221f3b83249b94671a5563c5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Backout Midnight.asset using Guid(775923221f3b83249b94671a5563c5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a8596c9c04da3ea17c07aedbf6d119') in 0.157542 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Amatic SC Bold.asset
-  artifactKey: Guid(a78241369618cb449a3cb4059e9caacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Amatic SC Bold.asset using Guid(a78241369618cb449a3cb4059e9caacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947b101d06e74e2fb2256eb983dfc37d') in 0.042336 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Amatic SC Regular.asset
-  artifactKey: Guid(2de354773ddb8524e92503f9412972cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Amatic SC Regular.asset using Guid(2de354773ddb8524e92503f9412972cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb308200b34c67ccd12eddb0de99f0f') in 0.042599 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000075 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Bahianita.fbx
-  artifactKey: Guid(b460c2773b38e204985a20ddc187d689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Bahianita.fbx using Guid(b460c2773b38e204985a20ddc187d689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806bc387121155f1e16a09366e5bdb4a') in 10.086261 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000077 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Amatic SC Regular.fbx
-  artifactKey: Guid(674ff0afb2d0f684fae15db531997dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Amatic SC Regular.fbx using Guid(674ff0afb2d0f684fae15db531997dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a402f5233b355ad8de59d6dc940ba24') in 2.793763 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000071 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Backout Midnight.fbx
-  artifactKey: Guid(d8e395ec05d814241938ef7c52e9d4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Backout Midnight.fbx using Guid(d8e395ec05d814241938ef7c52e9d4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7906482a9e6b1390b75579e4a69f695') in 2.701968 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010249 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 2.04 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.623 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2624ms)
-		BeginReloadAssembly (365ms)
-			ExecutionOrderSort (3ms)
-			DisableScriptedObjects (105ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (94ms)
-		EndReloadAssembly (2117ms)
-			LoadAssemblies (167ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (576ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (127ms)
-			SetupLoadedEditorAssemblies (1069ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (45ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (172ms)
-				ProcessInitializeOnLoadAttributes (792ms)
-				ProcessInitializeOnLoadMethodAttributes (53ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (28ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 5.38 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6554 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 89 unused Assets / (3.8 MB). Loaded Objects now: 7482.
-Memory consumption went from 299.7 MB to 295.9 MB.
-Total: 8.925500 ms (FindLiveObjects: 0.730300 ms CreateObjectMapping: 0.784400 ms MarkObjects: 6.303000 ms  DeleteObjects: 1.105500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011972 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 1.48 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.528 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2529ms)
-		BeginReloadAssembly (295ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (100ms)
-		EndReloadAssembly (2062ms)
-			LoadAssemblies (180ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (630ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (143ms)
-			SetupLoadedEditorAssemblies (945ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (39ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (152ms)
-				ProcessInitializeOnLoadAttributes (702ms)
-				ProcessInitializeOnLoadMethodAttributes (46ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (27ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.69 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6613 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 50 unused Assets / (3.8 MB). Loaded Objects now: 7537.
-Memory consumption went from 302.2 MB to 298.4 MB.
-Total: 7.807100 ms (FindLiveObjects: 0.628500 ms CreateObjectMapping: 0.564200 ms MarkObjects: 5.339800 ms  DeleteObjects: 1.273100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 345.690841 seconds.
+  Time since last request: 105723.361121 seconds.
   path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Blue.mat
   artifactKey: Guid(b2b6c5f04ab123a49941855cbdf9a358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Blue.mat using Guid(b2b6c5f04ab123a49941855cbdf9a358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8975c31afa2925d30dda1aedf5db5f28') in 1.429450 seconds 
+Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Blue.mat using Guid(b2b6c5f04ab123a49941855cbdf9a358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b50cb65198690073664a028a06b0c5') in 1.945496 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Brown.mat
-  artifactKey: Guid(9038b515efcaf2d41a351541e1e490f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Brown.mat using Guid(9038b515efcaf2d41a351541e1e490f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cda13cbb55ba49cf7e569bb4a33a8a4') in 0.031828 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000059 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Particle.mat
-  artifactKey: Guid(6f9c0a6b057988d45888044c7761b609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Particle.mat using Guid(6f9c0a6b057988d45888044c7761b609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6300d7088f96e205cebaff8b34deaae7') in 0.152477 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000099 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Red.mat
-  artifactKey: Guid(3d8563705655a4245b274398956f938f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Red.mat using Guid(3d8563705655a4245b274398956f938f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68aed5de17f5a6990ebea86e771a6bf3') in 0.032357 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/White.mat
-  artifactKey: Guid(36ed2e46e752ade4e80ac1daa11593ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/White.mat using Guid(36ed2e46e752ade4e80ac1daa11593ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed75f50ed26d5db800f8e70a13f9d75') in 0.032412 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000061 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Green Bright.mat
-  artifactKey: Guid(e6177ffee64f52948bbfac73b01087cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Green Bright.mat using Guid(e6177ffee64f52948bbfac73b01087cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3e9519030a2bfe3a81bc7e5f4bfc11') in 0.028776 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Emission Material.mat
-  artifactKey: Guid(eac492a4f6cedde44bfa1300dcd38868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Emission Material.mat using Guid(eac492a4f6cedde44bfa1300dcd38868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb4c33bc1c98607cfb303ce37adf204') in 0.030515 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Green.mat
-  artifactKey: Guid(c7865e25676eaec4db7e7f4bd829633b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Green.mat using Guid(c7865e25676eaec4db7e7f4bd829633b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2608d86c023d81fc3539aca99f759f7') in 0.030251 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000097 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/White Transparent.mat
-  artifactKey: Guid(4e825b6161062c748a795a28cd0fb457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/White Transparent.mat using Guid(4e825b6161062c748a795a28cd0fb457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07f398cd5d3b63615b01fb2c1725d15') in 0.083592 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.014168 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 2.20 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.932 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2933ms)
-		BeginReloadAssembly (332ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (47ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (118ms)
-		EndReloadAssembly (2416ms)
-			LoadAssemblies (176ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (748ms)
-			ReleaseScriptCaches (5ms)
-			RebuildScriptCaches (144ms)
-			SetupLoadedEditorAssemblies (1119ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (56ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (189ms)
-				ProcessInitializeOnLoadAttributes (799ms)
-				ProcessInitializeOnLoadMethodAttributes (63ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (37ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 8.45 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6612 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 50 unused Assets / (3.8 MB). Loaded Objects now: 7695.
-Memory consumption went from 374.7 MB to 370.9 MB.
-Total: 10.786200 ms (FindLiveObjects: 1.036300 ms CreateObjectMapping: 0.995000 ms MarkObjects: 7.185900 ms  DeleteObjects: 1.566700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.014240 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 1.68 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.104 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3106ms)
-		BeginReloadAssembly (340ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (114ms)
-		EndReloadAssembly (2587ms)
-			LoadAssemblies (193ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (739ms)
-			ReleaseScriptCaches (7ms)
-			RebuildScriptCaches (165ms)
-			SetupLoadedEditorAssemblies (1231ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (56ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (214ms)
-				ProcessInitializeOnLoadAttributes (883ms)
-				ProcessInitializeOnLoadMethodAttributes (65ms)
-				AfterProcessingInitializeOnLoad (9ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (33ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 7.91 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6613 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 50 unused Assets / (3.8 MB). Loaded Objects now: 7710.
-Memory consumption went from 374.6 MB to 370.8 MB.
-Total: 10.847600 ms (FindLiveObjects: 1.142300 ms CreateObjectMapping: 1.201100 ms MarkObjects: 7.068200 ms  DeleteObjects: 1.433800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 9454.289442 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Fanwood Master.fbx
-  artifactKey: Guid(d26e12ebb47c9eb45ac893ca4b5c5f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Fanwood Master.fbx using Guid(d26e12ebb47c9eb45ac893ca4b5c5f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6294bdf4c7bfe7d57159f82868f6b9d8') in 12.469027 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000084 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Faster One.fbx
-  artifactKey: Guid(f28981947388e364292ffd7fc4875f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Faster One.fbx using Guid(f28981947388e364292ffd7fc4875f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c512631766b2a0c07796433f9c2e21') in 2.938390 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Fredoka One.fbx
-  artifactKey: Guid(acc789ddb0f0b8649984a3ef345c473e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Fredoka One.fbx using Guid(acc789ddb0f0b8649984a3ef345c473e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ebd8ff3420c3474a639b48be75b8f65') in 6.217610 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000097 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Freckle Face.asset
-  artifactKey: Guid(d0d11568397d0c94d8eebebd7107bccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Freckle Face.asset using Guid(d0d11568397d0c94d8eebebd7107bccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69791dd000f2453cfd32f1a068b34de2') in 0.048557 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000080 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Indie Flower.fbx
-  artifactKey: Guid(e67382b1844733845b9f4ae73b859f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Indie Flower.fbx using Guid(e67382b1844733845b9f4ae73b859f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0376cec4b5792c6407eb4172d32d650c') in 8.615833 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000070 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/FasterOne.asset
-  artifactKey: Guid(fedd712539a41b84682d93548e5cec1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/FasterOne.asset using Guid(fedd712539a41b84682d93548e5cec1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301e45a9dab1db225be1bb572ef548dd') in 0.031546 seconds 
+  Time since last request: 0.000045 seconds.
+  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grid 160 x 160.mat
+  artifactKey: Guid(26007285ccfaf9e438126c4a0c71f5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grid 160 x 160.mat using Guid(26007285ccfaf9e438126c4a0c71f5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa1980dade306b85cd00606441573828') in 0.047491 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000052 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Freckle Face.fbx
-  artifactKey: Guid(f8ce82c5ca45c5f40927c5836dc40a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Freckle Face.fbx using Guid(f8ce82c5ca45c5f40927c5836dc40a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41fa7faf6bbc4c975d5c2d2e5da88b52') in 7.014898 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueGothic-CondensedItalic.fbx
-  artifactKey: Guid(502c2251f0caddd428e5093ddcaad6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueGothic-CondensedItalic.fbx using Guid(502c2251f0caddd428e5093ddcaad6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c2ccb77a2382d5de6d32e333c0445d') in 7.223224 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.604216 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Barrio.obj
-  artifactKey: Guid(7decaa56680b4f0419084f888a2e30ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Barrio.obj using Guid(7decaa56680b4f0419084f888a2e30ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d46adf5b31fcbe3751919c6f2940259') in 3.292636 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000153 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Bungee.asset
-  artifactKey: Guid(fc80136cc8005744fb2267670e9da777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Bungee.asset using Guid(fc80136cc8005744fb2267670e9da777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241804940c44963c9a1721ca9de732a8') in 0.036062 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000067 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Codystar.fbx
-  artifactKey: Guid(7688a0eda2d342a4a95d2b1ac3c651df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Codystar.fbx using Guid(7688a0eda2d342a4a95d2b1ac3c651df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115ce904d5db1b6f432ed0169092b4a0') in 10.277354 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Codystar Light.fbx
-  artifactKey: Guid(7deb2e5e22b1f8a499e228ddcecc7299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Codystar Light.fbx using Guid(7deb2e5e22b1f8a499e228ddcecc7299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754f8d6570f2acff764c314e1cb490d7') in 5.250311 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000064 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Medium.asset
-  artifactKey: Guid(8eb6e39a318bdae40807e279dc250e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Medium.asset using Guid(8eb6e39a318bdae40807e279dc250e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e1143de0463db597177b8db56329c8') in 0.041667 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Light.asset
-  artifactKey: Guid(c4016f28590a0da4682983132fcc44f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Light.asset using Guid(c4016f28590a0da4682983132fcc44f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2445166d40eed87848ceec423fc8a655') in 0.026403 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000086 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Light.fbx
-  artifactKey: Guid(ae8e15eea5919664e8f7424ea99b9eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Light.fbx using Guid(ae8e15eea5919664e8f7424ea99b9eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d4fced83da6c4c0686aa57aa8473bd') in 3.009949 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Linden Hill Italic.asset
-  artifactKey: Guid(9fe6ce0585744d94b972be4ad15529c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Linden Hill Italic.asset using Guid(9fe6ce0585744d94b972be4ad15529c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8ce5f5155174fc2933999b5799a066') in 0.032215 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000063 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Lobster.fbx
-  artifactKey: Guid(db97c8e80ded08249a4545834548c00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Lobster.fbx using Guid(db97c8e80ded08249a4545834548c00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5f8aed78c7c8f5fdb99b8616a08c1c') in 3.206878 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000069 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Linden Hill.fbx
-  artifactKey: Guid(f7ef980a0b2ab0c43b88883a466d796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Linden Hill.fbx using Guid(f7ef980a0b2ab0c43b88883a466d796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f82b0e0eff4d16c6399ea6d9593d1fc') in 4.048518 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000109 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Thin.fbx
-  artifactKey: Guid(80a4a6a693b6c114887fe9e548528f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Thin.fbx using Guid(80a4a6a693b6c114887fe9e548528f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1cf922afd3c24cf3982f4e583f258e1') in 10.145210 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000075 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueSpartan-Bold.fbx
-  artifactKey: Guid(dbc124265b9395d42a9c28eb1d7227f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueSpartan-Bold.fbx using Guid(dbc124265b9395d42a9c28eb1d7227f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e54166ff1e93c9d83c3be9f4d58b6c') in 3.279366 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Medula One.asset
-  artifactKey: Guid(57b4be39b160f4044bd590bf6bd63e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Medula One.asset using Guid(57b4be39b160f4044bd590bf6bd63e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ccf6474b3d20322735a36a0986f22e') in 0.026638 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Medula One.fbx
-  artifactKey: Guid(8bd852e5cf6ea694aa5fdae0bcd7ed7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Medula One.fbx using Guid(8bd852e5cf6ea694aa5fdae0bcd7ed7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05eba7ff4cbb0c5ac5581888d9ac221') in 2.606300 seconds 
+  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Black.mat
+  artifactKey: Guid(323309279f3626a4ba74c611555546c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Black.mat using Guid(323309279f3626a4ba74c611555546c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e61b4940b1a6eec1140422e980466523') in 0.030216 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000046 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-SemiBold.asset
-  artifactKey: Guid(a5055cff02b6e24419eeec4925dae5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-SemiBold.asset using Guid(a5055cff02b6e24419eeec4925dae5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce50844e58112b1469f52ac6f2d270b') in 0.016579 seconds 
+  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/White Dark.mat
+  artifactKey: Guid(01026a7aa911b8543bf3d8c45775fe16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/White Dark.mat using Guid(01026a7aa911b8543bf3d8c45775fe16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9e64d2c38a59ec45409418cb95b4aa') in 0.028007 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Bold.asset
-  artifactKey: Guid(01ec804a650fca14ba7cff2473cb4e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-Bold.asset using Guid(01ec804a650fca14ba7cff2473cb4e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '167014376e234542e3702ac1c62e0b14') in 0.022942 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-UltraLight.asset
-  artifactKey: Guid(b9c99561cdb75b144be3f6900d3321d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/LeagueMono-UltraLight.asset using Guid(b9c99561cdb75b144be3f6900d3321d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379f51ecff723ff6b2ff736abc66c7a8') in 0.017234 seconds 
+  Time since last request: 0.000040 seconds.
+  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grid 80 x 80.mat
+  artifactKey: Guid(3ad5a5ad127306740a393e4f2568942e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grid 80 x 80.mat using Guid(3ad5a5ad127306740a393e4f2568942e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a468217281973a48b727c9fb8db94a0d') in 0.027976 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000046 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Linden Hill.asset
-  artifactKey: Guid(685af518dff6ac148b4bd65b03bcf783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Linden Hill.asset using Guid(685af518dff6ac148b4bd65b03bcf783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c8e1a3f5d6892def058ebfb28df45c') in 0.020789 seconds 
+  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grey Light Dark.mat
+  artifactKey: Guid(a25ca6aee6a441c4486f29a0624c9606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grey Light Dark.mat using Guid(a25ca6aee6a441c4486f29a0624c9606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '516c84e5bd9f4c57a21625ffb951b12d') in 0.028276 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Lobster.asset
-  artifactKey: Guid(aa5591ce44c31c4499f8a33ae7a1ddf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Lobster.asset using Guid(aa5591ce44c31c4499f8a33ae7a1ddf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d0d3708f228f48f6bb541adee16428') in 0.019185 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 82.502260 seconds.
-  path: Assets/SampleSceneAssets/Textures/General/Brass_Albedo.png
-  artifactKey: Guid(3287de45d937b34418b4eb16c1a27c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Textures/General/Brass_Albedo.png using Guid(3287de45d937b34418b4eb16c1a27c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521d3de2959df33c04d591e7cb3af236') in 0.083825 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000062 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Models/HP.fbx
-  artifactKey: Guid(4cb0d831ac574d447947a17db7c65cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Models/HP.fbx using Guid(4cb0d831ac574d447947a17db7c65cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42aa973aab0663fdf60ca8f2c242c475') in 0.239000 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000083 seconds.
-  path: Assets/SampleSceneAssets/Textures/General/Brass_MAODS.png
-  artifactKey: Guid(3008d6bc83d360041817752724fa2f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Textures/General/Brass_MAODS.png using Guid(3008d6bc83d360041817752724fa2f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c40a929fafe39c7e578168cdd754e24') in 0.025599 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000064 seconds.
-  path: Assets/SampleSceneAssets/Materials/General/Fabric_Mat.mat
-  artifactKey: Guid(d7e92d5116171344ba594f9d547cd085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Materials/General/Fabric_Mat.mat using Guid(d7e92d5116171344ba594f9d547cd085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cf708c9ea01b342f7d670613553eb0') in 0.587308 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000049 seconds.
-  path: Assets/SampleSceneAssets/Textures/General/Fabric_MAODS.png
-  artifactKey: Guid(500a00ffd0d96724eba029d2f61b5708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Textures/General/Fabric_MAODS.png using Guid(500a00ffd0d96724eba029d2f61b5708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae4f879bcbfab20ad0ccbf36a27f3fc') in 0.042187 seconds 
+  Time since last request: 0.000046 seconds.
+  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grey.mat
+  artifactKey: Guid(b1b4721719ff98b4abf45943c7e47451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grey.mat using Guid(b1b4721719ff98b4abf45943c7e47451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af1a9a60aacb57e899e3df2cd025433') in 0.027408 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000053 seconds.
-  path: Assets/SampleSceneAssets/Materials/General/Brass_Mat.mat
-  artifactKey: Guid(51715d426647c0a469aa54fd0d386aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Materials/General/Brass_Mat.mat using Guid(51715d426647c0a469aa54fd0d386aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d914ec7e4481b276deac678bb20f74f') in 0.736750 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/SampleSceneAssets/Textures/General/Brass_Normal.png
-  artifactKey: Guid(859b2995968925148b3bf58b641f49ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Textures/General/Brass_Normal.png using Guid(859b2995968925148b3bf58b641f49ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afbc7b7b0964222d8669ea8a333b520') in 0.051977 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000092 seconds.
-  path: Assets/SampleSceneAssets/Textures/General/Fabric_Normal.png
-  artifactKey: Guid(f405b09ae172b7142abe821e0c6dad19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Textures/General/Fabric_Normal.png using Guid(f405b09ae172b7142abe821e0c6dad19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ee885428c4ed1468e14659345582c6') in 0.024837 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000066 seconds.
-  path: Assets/SampleSceneAssets/Textures/General/Fabric_Albedo.png
-  artifactKey: Guid(4979da18f5375524bbe219a2fc4f1900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleSceneAssets/Textures/General/Fabric_Albedo.png using Guid(4979da18f5375524bbe219a2fc4f1900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc516663cd4b1310db20454e757c6069') in 0.050448 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Prefabs/Bright Particle.prefab
-  artifactKey: Guid(c6e9b5bfbe217f24fa714435614894f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Prefabs/Bright Particle.prefab using Guid(c6e9b5bfbe217f24fa714435614894f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2310c65bc4096c9903f9e47a00ca3795') in 0.050439 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.478865 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Orbitron Light.fbx
-  artifactKey: Guid(92ff03cc960fb0744ada8ed1f7104d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Orbitron Light.fbx using Guid(92ff03cc960fb0744ada8ed1f7104d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7753ab3ce8cd8233949051f84d8a75e4') in 6.326860 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000068 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Srisakdi-Bold.fbx
-  artifactKey: Guid(4e53ed6dddbb2e444a0cd8f5ddb6c66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Srisakdi-Bold.fbx using Guid(4e53ed6dddbb2e444a0cd8f5ddb6c66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7fe27edfa377aadc357c200c17cd09') in 3.003059 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Sniglet.asset
-  artifactKey: Guid(4ee222ad9c3ec844c8ed400ca70ae00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Sniglet.asset using Guid(4ee222ad9c3ec844c8ed400ca70ae00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0bf0b49729a93bf50629977be29ce2') in 0.019127 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/PressStart2P-Regular.asset
-  artifactKey: Guid(1ace190024086c64180b9311d4e3c634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/PressStart2P-Regular.asset using Guid(1ace190024086c64180b9311d4e3c634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cae39d64c169ae7b9310c0576433f45') in 0.020597 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/ShadowsIntoLight-Regular.fbx
-  artifactKey: Guid(d041c0daa37237542a9078422db0d8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/ShadowsIntoLight-Regular.fbx using Guid(d041c0daa37237542a9078422db0d8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd94be624b73d9fee4548ae21840062') in 3.089844 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/RibeyeMarrow-Regular.fbx
-  artifactKey: Guid(eb4dbbd038867a94f83d9039645373aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/RibeyeMarrow-Regular.fbx using Guid(eb4dbbd038867a94f83d9039645373aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a751fb968a004930167f1f53fa941e') in 9.196992 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Prociono.fbx
-  artifactKey: Guid(5778337d50922764bb228720bcbaa764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Prociono.fbx using Guid(5778337d50922764bb228720bcbaa764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a58f1588ae1c25bb8bb479b2a5007a38') in 10.407042 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000077 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Srisakdi-Regular.fbx
-  artifactKey: Guid(4980f5f6e683afd42afd93c34429933e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Srisakdi-Regular.fbx using Guid(4980f5f6e683afd42afd93c34429933e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0f3d5d95b7d27e4f4db3ca5d20439f') in 9.914370 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000109 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/PermanentMarker-Regular.fbx
-  artifactKey: Guid(aff8071c666275d4fb470ca6e9fa8cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/PermanentMarker-Regular.fbx using Guid(aff8071c666275d4fb470ca6e9fa8cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5c8eec74a32bf16646f7f999635ecc') in 8.390629 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 20.802910 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Nova Cut.fbx
-  artifactKey: Guid(01576e3355aea5647ad8454f1cb85339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Nova Cut.fbx using Guid(01576e3355aea5647ad8454f1cb85339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e33124166192aba151b621caf2c5664') in 7.667452 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000066 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/OFLGoudyStM.asset
-  artifactKey: Guid(7d1f34d467fe7c84a868ab80fe7ffd05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/OFLGoudyStM.asset using Guid(7d1f34d467fe7c84a868ab80fe7ffd05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2409d340dc10d323ce1b9a1b54300a0c') in 0.031002 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000066 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Fanwood Italic.asset
-  artifactKey: Guid(ea017fc0a75969f41ab432878653c005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Fanwood Italic.asset using Guid(ea017fc0a75969f41ab432878653c005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4d8b979fe8b9cc7f384bd9646371d3') in 0.039467 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000067 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Orbitron Black.fbx
-  artifactKey: Guid(69a07ebb4865a9f4fbf4972a8772f749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Orbitron Black.fbx using Guid(69a07ebb4865a9f4fbf4972a8772f749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501a0191af327a5bb1c5b8c754f10d85') in 3.297792 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000070 seconds.
-  path: Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Bangers.fbx
-  artifactKey: Guid(9c7fa36745db763489d3fc9723c95c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tiny Giant Studio/Modular 3D Text/Fonts/Bangers.fbx using Guid(9c7fa36745db763489d3fc9723c95c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff08e2c46e4bfc5eaa190bb6f60eb3f') in 6.325898 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010484 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Unity\HD_GG\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 4.66 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  8.915 seconds
-Domain Reload Profiling:
-	ReloadAssembly (8916ms)
-		BeginReloadAssembly (3513ms)
-			ExecutionOrderSort (44ms)
-			DisableScriptedObjects (565ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (273ms)
-		EndReloadAssembly (5032ms)
-			LoadAssemblies (419ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1211ms)
-			ReleaseScriptCaches (7ms)
-			RebuildScriptCaches (389ms)
-			SetupLoadedEditorAssemblies (2459ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (123ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (5ms)
-				BeforeProcessingInitializeOnLoad (406ms)
-				ProcessInitializeOnLoadAttributes (1798ms)
-				ProcessInitializeOnLoadMethodAttributes (115ms)
-				AfterProcessingInitializeOnLoad (9ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (62ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 10.79 ms, found 5 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6612 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 50 unused Assets / (3.8 MB). Loaded Objects now: 7837.
-Memory consumption went from 387.1 MB to 383.3 MB.
-Total: 17.705100 ms (FindLiveObjects: 1.445300 ms CreateObjectMapping: 1.654900 ms MarkObjects: 12.560400 ms  DeleteObjects: 2.041700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  path: Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grey Dark.mat
+  artifactKey: Guid(c958ce690de9a0841b7b2d7f597ac79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny Giant Studio/Modular 3D Text/Media/Materials/Grey Dark.mat using Guid(c958ce690de9a0841b7b2d7f597ac79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02dd0c2037455b3936c5fca7aa4a826d') in 0.024836 seconds 
